@@ -1,0 +1,40 @@
+/* Estilos do Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+
+.nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    color: #ffcc00;
+}
+
+/* Estilos do Footer */
+.footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #222;
+    color: white;
+}
+
+  /* Estilos da Sessão 1 */
+.section1 {
+    padding: 50px;
+    text-align: center;
+    background-color: #f8f8f8;
+    color: #333;
+}
